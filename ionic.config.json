@@ -1,0 +1,8 @@
+{
+  "name": "Prosper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "937b69e6"
+}

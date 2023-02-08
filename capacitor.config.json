@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Prosper",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
